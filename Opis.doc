@@ -1,0 +1,5 @@
+Program jest wariantem gry w życie, takiej jaką robiliśmy na zajęciach. 
+Uzupełniona została o prosty interface w postaci czterech przycisków. 
+Pierwszy inicjuje proces losując wartości dla komórek. 
+Drugi – zatrzymuje, „zabijając” wszystkie komórki. 
+Trzeci zmienia barwy na czarno-białe, a ostatni przywraca podstawową kolorystykę.
